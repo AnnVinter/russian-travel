@@ -9,6 +9,7 @@
     margin: auto;
     position: relative;
     z-index: 1;
+    background-size: cover;
 }
 
 .cover__background::after {
