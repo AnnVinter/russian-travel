@@ -4,8 +4,9 @@
     font-size: 54px;
     line-height: 58px;
 }
+
 @media screen and (max-width: 767px){
-    .inrto__title {
+    .intro__title {
         font-size: 32px;
         line-height: 35px;
     }
